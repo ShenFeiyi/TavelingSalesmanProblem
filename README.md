@@ -1,4 +1,5 @@
 # Travelling Salesman Problem
+
 https://github.com/SDaydreamer/TavelingSalesmanProblem
 
 [TOC]
@@ -935,9 +936,9 @@ plt.savefig('time & accuracy.jpg')
 
 ## 3. Results
 
-![time & accuracy -2](time & accuracy -2.jpg)
+<img src='time & accuracy -2.jpg' style='zoom:50%'>
 
-![time & accuracy -0](time & accuracy -0.jpg)
+<img src='time & accuracy -0.jpg' style='zoom:50%'>
 
 These two results share something in common. 
 
