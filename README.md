@@ -935,9 +935,9 @@ plt.savefig('time & accuracy.jpg')
 
 ## 3. Results
 
-![time & accuracy -2](/Users/daydreamer/Documents/Projects_in_Python/Travelling Salesman Problem/time & accuracy -2.jpg)
+![time & accuracy -2](time & accuracy -2.jpg)
 
-![time & accuracy -0](/Users/daydreamer/Documents/Projects_in_Python/Travelling Salesman Problem/time & accuracy -0.jpg)
+![time & accuracy -0](time & accuracy -0.jpg)
 
 These two results share something in common. 
 
